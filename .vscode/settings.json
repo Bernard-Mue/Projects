@@ -4,6 +4,11 @@
             "path": "basic log analyzer and file hashing tool.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
+        },
+        {
+            "path": "functions_for_data_manipulation.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
         }
     ]
 }
